@@ -1,6 +1,4 @@
-<!--### Hi there 👋-->
-### 나는 병신입니다
-### 저는 키만 크고 아무것도 할 줄 몰라 집에 박혀서 게임만 하는 밥버러지입니다
+
 
 <!--
 **hwan06/hwan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
