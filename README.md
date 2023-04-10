@@ -1,5 +1,4 @@
-### 나는 병신 새끼 입니다
-
+### 손은규는 대가리가 존나 큽니다 ㅎㅎ;
 <!--
 **hwan06/hwan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
