@@ -1,4 +1,5 @@
-### 손은규는 대가리가 존나 큽니다 ㅎㅎ; 바훈투르 저리가라!
+
+
 <!--
 **hwan06/hwan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
