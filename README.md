@@ -1,8 +1,10 @@
 # Hello
----
 
-![hwan06](https://github-readme-stats.vercel.app/api?username=hwan06&show_icons=true&theme=radical)
-![hwan06](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan06&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+<div align= "center">
+<a href="http://www.github.com/hwan06"><img src="https://github-readme-stats.vercel.app/api?username=hwan06&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hwan06's GitHub stats" /></a>
+<a href="https://github.com/hwan06" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan06&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+  
 ---
 
 <div align="center">
