@@ -1,6 +1,9 @@
 # Hello
+---
 
 ![hwan06](https://github-readme-stats.vercel.app/api?username=hwan06&show_icons=true&theme=radical)
+![hwan06](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan06&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+---
 
 <div align="center">
   <h3>skills</h3>
